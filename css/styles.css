@@ -401,5 +401,7 @@ ul, ol {
     display: inline-block;
     margin-bottom: 16px;
 }
-
+.form {
+    display: flex;
+}
 
